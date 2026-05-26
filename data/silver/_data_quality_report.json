@@ -1,0 +1,29 @@
+{
+  "run_timestamp": "2026-05-26T10:26:30.719727Z",
+  "customers": {
+    "row_count": 7043,
+    "unique_customer_ids": 7043,
+    "null_total_charges": 0,
+    "churn_rate_pct": 26.54
+  },
+  "cdrs": {
+    "row_count": 50000,
+    "unique_call_ids": 50000,
+    "completed_calls_pct": 92.11,
+    "dropped_calls_pct": 4.95,
+    "date_range_min": "2026-02-25 03:36:14.825973",
+    "date_range_max": "2026-05-26 03:24:27.825973"
+  },
+  "referential_integrity": {
+    "cdr_customer_match_rate_pct": 100.0,
+    "cdr_tower_match_rate_pct": 100.0
+  },
+  "cell_towers": {
+    "row_count": 200,
+    "unique_regions": 5,
+    "technology_distribution": {
+      "4G": 136,
+      "5G": 64
+    }
+  }
+}

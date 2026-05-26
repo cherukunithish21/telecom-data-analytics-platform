@@ -1,0 +1,6 @@
+region,total_calls,completed_calls,dropped_calls,unique_customers,total_data_mb,total_revenue_usd,active_towers,drop_rate_pct,revenue_per_customer_usd
+Central,8293,7625,422,4912,174878.046,14611.668,33,5.089,2.97
+East,10389,9614,485,5394,220438.394,17550.3219,42,4.668,3.25
+North,8918,8186,477,5047,195685.42,15866.4602,36,5.349,3.14
+South,10187,9366,521,5411,213526.188,17345.4802,40,5.114,3.21
+West,12213,11266,572,5832,264120.24,22422.1651,49,4.684,3.84
